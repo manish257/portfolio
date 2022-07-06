@@ -12,7 +12,7 @@ function Header() {
             Hello I'm
           </h5>
           <h1>
-            Manish Kumar Mahato
+            Manish
           </h1>
           <h5 className='text-light'>
             Fullstack Developer
