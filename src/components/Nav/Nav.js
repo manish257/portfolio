@@ -3,7 +3,9 @@ import './Nav.css';
 
 function Nav() {
   return (
-    <div>Nav</div>
+    <nav>
+        <a href="#"></a>
+    </nav>
   )
 }
 
