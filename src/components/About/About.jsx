@@ -20,19 +20,19 @@ const About = () => {
 
         <div className="about__content">
           <div className="about__cards">
-            <article className='"about_cards'>
+            <article className='about__card'>
               <FaAward className="about__icon" />
               <h5>Experience</h5>
               <small>2+ Years Working</small>
             </article>
 
-            <article className='"about_cards'>
+            <article className='about__card'>
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
               <small>500+ Worldwide</small>
             </article>
 
-            <article className='"about_cards'>
+            <article className='about__card'>
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
               <small>30+ completed</small>
