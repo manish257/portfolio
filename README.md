@@ -7,5 +7,5 @@ There is use of:
 ## Modern and Responsive Design with CSS3
 ## Multiple Contact Options
 ## Create Carousels/Slides with SwiperJS
-## Deploy your website
+## Website Deployment
 
