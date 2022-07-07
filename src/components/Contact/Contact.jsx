@@ -12,8 +12,8 @@ const Contact = () => {
 
       <div className="container contact__container">
         <div className="contact__options">
-          <article className="contact__options">
-            <HiOutlineMail />
+          <article className="contact__option">
+            <HiOutlineMail className="contact__option-icon"/>
             <h4>Email</h4>
             <h5>manishmahato257@gmail.com</h5>
             <a
@@ -25,8 +25,8 @@ const Contact = () => {
             </a>
           </article>
 
-          <article className="contact__options">
-            <RiMessengerLine />
+          <article className="contact__option">
+            <RiMessengerLine className="contact__option-icon" />
             <h4>Messenger</h4>
             <h5>Manish Kushwaha</h5>
             <a href="https://m.me/portrayalss" target="_blank" rel="noreferrer">
@@ -34,8 +34,8 @@ const Contact = () => {
             </a>
           </article>
 
-          <article className="contact__options">
-            <BsWhatsapp />
+          <article className="contact__option">
+            <BsWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
             <h5>manishmahato257@gmail.com</h5>
             <a
