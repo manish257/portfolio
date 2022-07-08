@@ -11,7 +11,9 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, 'YOUR_PUBLIC_KEY')
+    emailjs.sendForm('service_abeygkm', 'template_f9m7xhh', form.current, '46ziJG8poPPcPObAH')
+
+    e.target.reset()
   };
   return (
     <section id="contact">
@@ -45,7 +47,6 @@ const Contact = () => {
           <article className="contact__option">
             <BsWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
-            <h5>manishmahato257@gmail.com</h5>
             <a
               href="https://api.whatsapp.com/send?phone=00923117637245"
               target="_blank"
