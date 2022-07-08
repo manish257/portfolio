@@ -17,25 +17,25 @@ const data = [
     name: "Missandei",
     image: "https://pbs.twimg.com/profile_images/2403580562/m94b03woyggkfo11osw7_400x400.jpeg",
     review:
-      "Manish is wonderful to work with, and has an exceptional skill in Python, C and Assembly. We worked together on a Microprocessor Systems project using ARM assembly. Manish is dedicated, self-motivated, and very capable. He's not only a reliable team leader but also inspiring how he's good with time management and planning.",
+      "Manish is wonderful to work with, and has an exceptional skill in Python, C and Assembly. He is exceptionally good at Logic Building and programming. He's not only a reliable team leader but also inspiring how he's good with time management and planning.",
   },
   {
     name: "Stephen Strange",
     image: "https://pbs.twimg.com/profile_images/893371970447867908/Vzcva6xN_400x400.jpg",
     review:
-      "Manish is smart and hard working. He is always interested to learn and teach others. He has always prove his self a valuable team player.",
+      "Manish is smart and hard working. He has always prove his self a valuable team player. I would recommend Manish very highly, not only for his knowledge, skills and perseverance but also for his ability to remain calm and methodical under severe pressure.",
   },
   {
     name: "Bruce Wayne",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0P2fKkgWq7evqEZlgBZPi2ROSR_4gRMKDw&usqp=CAU",
     review:
-      "Manish is smart and hard working. He is always interested to learn and teach others. He has always prove his self a valuable team player.",
+      "Manish is smart and hard working. He is always interested to learn and teach others. He has always prove his self a valuable team player. There is no pressure working with as everything is planned before hand and work goes smooth.",
   },
   {
     name: "T'Challa",
     image: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/03/black-panther-e1520897716634.jpg",
     review:
-      "Manish and I are working together in our final year project Fall Detection and Hip Protection System for Elderly People.In addition to his excellent core skills of Machine Learning and Team management, Manish is great in leading the group. He is always motivating us to work together and the planning is always perfect. I would recommend Manish very highly, not only for his knowledge, skills and perseverance but also for his ability to remain calm and methodical under severe pressure. ",
+      "Manish and I are working together in our final year project.In addition to his excellent core skills of Machine Learning and Team management, Manish is great in leading the group. He is always motivating us to work together and the planning is always perfect. ",
   },
 ];
 
