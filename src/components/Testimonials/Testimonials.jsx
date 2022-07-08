@@ -1,9 +1,5 @@
 import React from "react";
 import "./Testimonials.css";
-import AVTR1 from "../../assets/avatar1.jpg";
-import AVTR2 from "../../assets/avatar2.jpg";
-import AVTR3 from "../../assets/avatar3.jpg";
-import AVTR4 from "../../assets/avatar4.jpg";
 
 // import Swiper core and required modules
 import { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
@@ -18,28 +14,28 @@ import 'swiper/css/scrollbar';
 
 const data = [
   {
-    name: "Aman",
-    image: AVTR1,
+    name: "Missandei",
+    image: "https://pbs.twimg.com/profile_images/2403580562/m94b03woyggkfo11osw7_400x400.jpeg",
     review:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam veritatis, exercitationem dolorum consectetur facere saepe tenetur quia officiis asperiores vero velit nisi earum ut pariatur!",
+      "Manish is wonderful to work with, and has an exceptional skill in Python, C and Assembly. We worked together on a Microprocessor Systems project using ARM assembly. Manish is dedicated, self-motivated, and very capable. He's not only a reliable team leader but also inspiring how he's good with time management and planning.",
   },
   {
-    name: "Dhiraj",
-    image: AVTR2,
+    name: "Stephen Strange",
+    image: "https://pbs.twimg.com/profile_images/893371970447867908/Vzcva6xN_400x400.jpg",
     review:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam veritatis, exercitationem dolorum consectetur facere saepe tenetur quia officiis asperiores vero velit nisi earum ut pariatur!",
+      "Manish is smart and hard working. He is always interested to learn and teach others. He has always prove his self a valuable team player.",
   },
   {
-    name: "Aarya",
-    image: AVTR3,
+    name: "Bruce Wayne",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0P2fKkgWq7evqEZlgBZPi2ROSR_4gRMKDw&usqp=CAU",
     review:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam veritatis, exercitationem dolorum consectetur facere saepe tenetur quia officiis asperiores vero velit nisi earum ut pariatur!",
+      "Manish is smart and hard working. He is always interested to learn and teach others. He has always prove his self a valuable team player.",
   },
   {
-    name: "Preeti",
-    image: AVTR4,
+    name: "T'Challa",
+    image: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/03/black-panther-e1520897716634.jpg",
     review:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam veritatis, exercitationem dolorum consectetur facere saepe tenetur quia officiis asperiores vero velit nisi earum ut pariatur!",
+      "Manish and I are working together in our final year project Fall Detection and Hip Protection System for Elderly People.In addition to his excellent core skills of Machine Learning and Team management, Manish is great in leading the group. He is always motivating us to work together and the planning is always perfect. I would recommend Manish very highly, not only for his knowledge, skills and perseverance but also for his ability to remain calm and methodical under severe pressure. ",
   },
 ];
 

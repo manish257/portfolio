@@ -34,7 +34,7 @@ const data = [
   },
   {
     id: 5,
-    image: "https://img.youtube.com/vi/INh9_MQy3Pg/hqdefault.jpg",
+    image: "http://armofthings.com/wp-content/uploads/2016/01/IMG_20160103_201358_676-1024x731.jpg",
     title: "Home Automation Using Tiva C",
     github:
       "https://github.com/manish257/Smart-Domicile-Home-automation-using-TIVA-C-ARM-TM4C1233H6PM",
@@ -43,7 +43,7 @@ const data = [
   {
     id: 6,
     image:
-      "https://ae01.alicdn.com/kf/HTB1EJVQLVXXXXbRXXXXq6xXFXXXm/Stm32f103vet6-pcb-source-file-schematic-designed-by-Altium-Designer-other-chips-sd-sp3232.jpg",
+      "https://www.altium.com/documentation/sites/default/files/resize/wiki_attachments/304897/BoardExample_2-450x266.png",
     title: "Altium PCB Designs",
     github: "https://github.com/manish257/Altium-Projects",
     demo: "https://github.com/manish257/Altium-Projects",
